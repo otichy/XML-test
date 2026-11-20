@@ -48,15 +48,9 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/></teiHeader>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/></teiHeader>
    <!-- Images -->
-   <facsimile>
-      <graphic url="https://raw.githubusercontent.com/otichy/XML-test/refs/heads/main/B-f147r-decl1.JPG" xml:id="B147r" height="411px" width="1361px"/>
-      <graphic url="https://raw.githubusercontent.com/otichy/XML-test/refs/heads/main/B-f147v-decl1.JPG" xml:id="B147v" height="1362px" width="268px"/>
-      <graphic url="https://raw.githubusercontent.com/otichy/XML-test/refs/heads/main/B-f151r-decl12.JPG" xml:id="B151r" height="1363px" width="684px"/>
-      <graphic url="https://raw.githubusercontent.com/otichy/XML-test/refs/heads/main/M-f14v-decl30.JPG" xml:id="M14v" height="1437px" width="861px"/>
-      <graphic url="https://raw.githubusercontent.com/otichy/XML-test/refs/heads/main/M-f15r-decl30.JPG" xml:id="M15r" height="1737px" width="511px"/>
-   </facsimile>
+
    <text>
       <body>
          <!-- e caudata (ę) are regularized to a standard form ae/oe/e -->
@@ -75,7 +69,7 @@
                   <lb break="yes"/>patienda sunt dum occiderit tyrannum f<choice><orig>ę</orig><reg>e</reg></choice>mina possit et <choice><abbr><hi rend="overline">mr</hi></abbr><expan>m<ex>ate</ex>r</expan></choice>
                </p>
                <p facs="#B147v">
-                  <pb n="147v"/>
+                  <pb n="https://github.com/otichy/XML-test/blob/main/B-f147v-decl1.JPG?raw=true"/>
                   <lb break="yes"/>velit. Non possum mortem filii mei videre. Hoc est ergo quare <choice><abbr>illū</abbr><expan>illu<ex>m</ex></expan></choice>
                   <lb break="yes"/>velimus occidere. Pars altera.
                   <lb break="yes"/>Petit pr<choice><orig>ę</orig><reg>ae</reg></choice>mium non quod accipiat, sed quod accepit. </p>
