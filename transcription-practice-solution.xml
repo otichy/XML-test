@@ -97,7 +97,7 @@
          <div type="M">
             <div type="declamation" n="30">
                <p facs="#M14v">
-                  <pb facs="https://github.com/otichy/XML-test/blob/main/B-f151r-decl12.JPG" n="14v"/>
+                  <pb facs="https://github.com/otichy/XML-test/blob/main/M-f14v-decl30.JPG" n="14v"/>
                   <lb/>Nepos, ex meretricio susceptus.
                   <lb/><num n="30">XXX</num>. Qui habebat filios, frugi <choice><abbr>&amp;</abbr><expan>et</expan></choice> luxuriosum ab amore meretricis
                   <lb/>abdicavit. Abdicatus se ad <gap extent="1" unit="word" reason="blackened-out"/> meretricem contulit.
@@ -115,7 +115,7 @@
                   <lb/>
                </p>
                <p>
-                  <pb n="15r"/>
+                  <pb facs="https://github.com/otichy/XML-test/blob/main/M-f15v-decl30.JPG" n="15r"/>
                   <lb/>Iudices utrum sit sanus qui <choice><abbr>&amp;</abbr><expan>et</expan></choice> suos abdicat <choice><abbr>&amp;</abbr><expan>et</expan></choice> adoptat
                   <lb/>alienos. Adoptio sancta res est quidem quae beneficia
                   <lb/>naturae <choice><abbr>&amp;</abbr><expan>et</expan></choice> iuris imitatur in quo puero nescio quid
