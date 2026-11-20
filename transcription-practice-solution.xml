@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Module 2. Transcrption Exercice - Solution</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Dariah Teach MOOC: Digital Scholarly Editions. This file is for exercise only, not to
+               distribute.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <!-- Manuscript B -->
+            <msDesc xml:id="B">
+               <msIdentifier>
+                  <country key="de">Germany</country>
+                  <settlement>Munich</settlement>
+                  <institution>Die Bayerische Staatsbibliothek</institution>
+                  <repository>Manuscripts and Modern Paper</repository>
+                  <idno>BSB Codex Latinus Monacensis 309</idno>
+               </msIdentifier>
+               <physDesc>
+                  <handDesc>
+                     <handNote xml:id="Bh1" scribe="first" scope="major"> Unidentified hand that
+                        wrote most of manuscript. </handNote>
+                     <handNote xml:id="Bh2" scribe="other" scope="minor"> Corrections by first hand
+                        or another hand. </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+
+            <!-- Manuscript M -->
+            <msDesc xml:id="M">
+               <msIdentifier>
+                  <country key="de">Germany</country>
+                  <settlement>Munich</settlement>
+                  <institution>Die Bayerische Staatsbibliothek</institution>
+                  <repository>Manuscripts and Modern Paper</repository>
+                  <idno>BSB Codex Latinus Monacensis 316</idno>
+               </msIdentifier>
+               <physDesc>
+                  <handDesc>
+                     <handNote xml:id="Mh1" scribe="first" scope="major"> Unidentified hand that
+                        wrote most of manuscript. </handNote>
+                     <handNote xml:id="Mh2" scribe="other" scope="minor"> Corrections by first hand
+                        or another hand. </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/></teiHeader>
+   <!-- Images -->
+   <facsimile>
+      <graphic url="https://teach.dariah.eu/pluginfile.php/1073/mod_folder/content/0/2-Manuscript%20Transcription/B-f147r-decl1.JPG" xml:id="B147r" height="411px" width="1361px"/>
+      <graphic url="https://teach.dariah.eu/pluginfile.php/1073/mod_folder/content/0/2-Manuscript%20Transcription/B-f147v-decl1.JPG" xml:id="B147v" height="1362px" width="268px"/>
+      <graphic url="https://teach.dariah.eu/pluginfile.php/1073/mod_folder/content/0/2-Manuscript%20Transcription/B-f151r-decl12.JPG" xml:id="B151r" height="1363px" width="684px"/>
+      <graphic url="https://teach.dariah.eu/pluginfile.php/1073/mod_folder/content/0/2-Manuscript%20Transcription/M-f14v-decl30.JPG" xml:id="M14v" height="1437px" width="861px"/>
+      <graphic url="https://teach.dariah.eu/pluginfile.php/1073/mod_folder/content/0/2-Manuscript%20Transcription/M-f15r-decl30.JPG" xml:id="M15r" height="1737px" width="511px"/>
+   </facsimile>
+   <text>
+      <body>
+         <!-- e caudata (ę) are regularized to a standard form ae/oe/e -->
+         <div type="B">
+            <div type="declamation" n="1">
+               <p facs="#B147r">
+                  <pb n="147r"/>
+                  <lb break="yes"/>Incipiunt ex Calpurnio flacco excerpt<choice><orig>ę</orig><reg>ae</reg></choice>. Excerpta Decem
+                  <lb break="yes"/>Rhetorum minorum. Uxor tyranni<add hand="#Bh1" place="above">ci</add>da
+                  <lb break="yes"/><choice><abbr><supplied reason="missing-initial">Q</supplied>uinq:</abbr><expan><supplied reason="missing-initial">Q</supplied>uinq<ex>ue</ex></expan></choice> cum tyranno
+                  proxim<choice><orig>ę</orig><reg>ae</reg></choice> famili<choice><orig>ę</orig><reg>ae</reg></choice> puniantur. <choice><abbr>Qu<choice><orig>ę</orig><reg>ae</reg></choice>dā</abbr><expan>Qu<choice><orig>ę</orig><reg>ae</reg></choice>da<ex>m</ex></expan></choice>
+                  <lb break="yes"/>qu<choice><orig>ę</orig><reg>ae</reg></choice> habebat duos filios et tyrannum virum tyrannici
+                  <lb break="no"/>dum fecit. Pr<choice><orig>ę</orig><reg>ae</reg></choice>mio impunitatem liberis postulavit. Meruit.
+                  <lb break="yes"/>Ex his alter occupavit arcem. At cum mater occidit petit alteri im
+                  <lb break="no"/>punitatem. Contra dicitur. Occidam inquit. Quanta nobis
+                  <lb break="yes"/>patienda sunt dum occiderit tyrannum f<choice><orig>ę</orig><reg>e</reg></choice>mina possit et <choice><abbr><hi rend="overline">mr</hi></abbr><expan>m<ex>ate</ex>r</expan></choice>
+               </p>
+               <p facs="#B147v">
+                  <pb n="147v"/>
+                  <lb break="yes"/>velit. Non possum mortem filii mei videre. Hoc est ergo quare <choice><abbr>illū</abbr><expan>illu<ex>m</ex></expan></choice>
+                  <lb break="yes"/>velimus occidere. Pars altera.
+                  <lb break="yes"/>Petit pr<choice><orig>ę</orig><reg>ae</reg></choice>mium non quod accipiat, sed quod accepit. </p>
+            </div>
+            <div type="declamation" n="12">
+               <p facs="#B151r">
+                  <pb n="151r"/>
+                  <lb break="yes"/>Veneficii rea torqueatur donec conscios indicet. Amissa uxore ex <choice><abbr>q<hi rend="superscript">a</hi></abbr><expan>q<ex>u</ex>a</expan></choice>
+                  <lb break="yes"/>habebat filium duxit alteram. Et de ea suscepit filiam. <choice><abbr>Adolever<hi rend="overline">t</hi></abbr><expan>Adolever<ex>un</ex>t</expan></choice>
+                  <lb break="yes"/>ambo infantes repente ambiguis signis perit adolescens. Pater
+                  <lb break="yes"/>uxorem accusavit et damnavit. Com <choice><abbr>torquere<hi rend="overline">t</hi></abbr><expan>torqueret<ex>ur</ex></expan></choice> filiam sibi <choice><abbr>cōsciā</abbr><expan>co<ex>n</ex>scia<ex>m</ex></expan></choice>
+                  <lb break="yes"/>dixit. Petitur puella ex lege ad poenam. Adest ei <choice><abbr><hi rend="overline">pr</hi></abbr><expan>p<ex>ate</ex>r</expan></choice>. <add hand="#Bh2" place="margin">Pro filia</add>. Noverca filios
+                  <lb break="yes"/><choice><abbr><hi rend="overline">nros</hi></abbr><expan>n<ex>ost</ex>ros</expan></choice> aut in simulatione persequitur aut veneno <choice><abbr><hi rend="overline">q</hi></abbr><expan>q<ex>uae</ex></expan></choice> scelus <choice><abbr>suū</abbr><expan>suu<ex>m</ex></expan></choice> <choice><abbr>&amp;</abbr><expan>et</expan></choice> <choice><abbr>ī</abbr><expan>i<ex>n</ex></expan></choice> do
+                  <lb break="no"/>mo venefice et in suppliciis docuit. Parricide adoleverunt ambo
+                  <lb break="yes"/>sed minor filia et preter sexum multo fratre simplicior in uno <choice><abbr>utri⁹</abbr><expan>utri<ex>us</ex></expan></choice>
+                  <lb break="yes"/>mentem videris cum periit adolescens et patri <subst><del>vindicatus est et</del><add hand="#Bh2" place="margin">venenum <choice><abbr>datū</abbr><expan>datu<ex>m</ex></expan></choice> est</add></subst> et
+                  <lb break="yes"/>sorori. O noverca est alta crudelitas amasset et consciam putare
+                  <lb break="no"/>mus. Proh nefas conscia dicitur cui <subst><del hand="#Bh1">pater</del><add hand="#Bh2" place="margin">frater</add></subst> periit. Cur <choice><abbr>postꝗ<hi rend="superscript">a</hi></abbr><expan>postq<ex>uam</ex></expan></choice> ado
+                  <lb break="no"/>levit puella est interemptus adolescens. Tam diu ergo fuit nover
+                  <lb break="no"/>ce quieta crudelitas. <choice><abbr><hi rend="overline">ꝗ</hi></abbr><expan>q<ex>uam</ex></expan></choice> diu <choice><orig>ę</orig><reg>ae</reg></choice>tas illius ad persusionem <choice><abbr>consciēti<choice><orig>ę</orig><reg>ae</reg></choice></abbr><expan>conscie<ex>n</ex>ti<choice><orig>ę</orig><reg>ae</reg></choice></expan></choice>
+                  <lb break="yes"/>perveneri<del>n</del>t modum non habet iracundia mentiendi.
+               </p>
+            </div>
+         </div>
+         <div type="M">
+            <div type="declamation" n="30">
+               <p facs="#M14v">
+                  <pb n="14v"/>
+                  <lb/>Nepos, ex meretricio susceptus.
+                  <lb/><num n="30">XXX</num>. Qui habebat filios, frugi <choice><abbr>&amp;</abbr><expan>et</expan></choice> luxuriosum ab amore meretricis
+                  <lb/>abdicavit. Abdicatus se ad <gap extent="1" unit="word" reason="blackened-out"/> meretricem contulit.
+                  <lb/>Illic cum aegrotare coepi!et, misit ad patrem <choice><abbr>&amp;</abbr><expan>et</expan></choice> com
+                  <lb break="no"/>mendavit illi filim de meretrice susceptum, rogans
+                  <lb/>ut eum in familiam recipiat et abiit. Vult illum senex
+                  <lb/>in familiam recipere. Reus est alteri filio dementiae
+                  <lb/>Contra patrem. <!-- hi rend allcaps? -->
+                  <lb/>Necesse est me hodie in causa amplius dolere quam
+                  <lb/>dicere. Pius est sine dubio filius qui in patre mentis
+                  <lb/>errorem morbo potius a!ignat <choice><abbr>&amp;</abbr><expan>et</expan></choice> fato quam moribus.
+                  <lb/>Miseranda potius in <add hand="#Mh2" place="above">meo</add> patre <gap extent="1" unit="word" reason="blackened-out"/> quam accusanda de
+                  <lb break="no"/>mentia est. Multum potest abdicatio cum timeretur
+                  <lb/>post ex pudere iam liberius erratur. Vos interrogo
+                  <lb/>
+               </p>
+               <p>
+                  <pb n="15r"/>
+                  <lb/>Iudices utrum sit sanus qui <choice><abbr>&amp;</abbr><expan>et</expan></choice> suos abdicat <choice><abbr>&amp;</abbr><expan>et</expan></choice> adoptat
+                  <lb/>alienos. Adoptio sancta res est quidem quae beneficia
+                  <lb/>naturae <choice><abbr>&amp;</abbr><expan>et</expan></choice> iuris imitatur in quo puero nescio quid
+                  <lb/>sit indignius utrum patris origo quod est dubia an
+                  <lb/>matris origo quod certa est. Dixit ille suum filium
+                  <lb/>dixit ut amator immo dixit ipse iam parum sanus.
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
