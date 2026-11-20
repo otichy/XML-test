@@ -48,7 +48,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/></teiHeader>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/></teiHeader>
    <!-- Images -->
    <facsimile>
       <graphic url="https://teach.dariah.eu/pluginfile.php/1073/mod_folder/content/0/2-Manuscript%20Transcription/B-f147r-decl1.JPG" xml:id="B147r" height="411px" width="1361px"/>
@@ -60,7 +60,7 @@
          <div type="B">
             <div type="declamation" n="1">
                <p facs="https://teach.dariah.eu/pluginfile.php/1073/mod_folder/content/0/2-Manuscript%20Transcription/B-f147r-decl1.JPG">
-                  <pb facs="https://teach.dariah.eu/pluginfile.php/1073/mod_folder/content/0/2-Manuscript%20Transcription/B-f147r-decl1.JPG" n="147r"/>
+                  <pb facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg" n="147r"/>
                   <lb break="yes"/>Incipiunt ex Calpurnio flacco excerpt<choice><orig>ę</orig><reg>ae</reg></choice>. Excerpta Decem
                   <lb break="yes"/>Rhetorum minorum. Uxor tyranni<add hand="#Bh1" place="above">ci</add>da
                   <lb break="yes"/><choice><abbr><supplied reason="missing-initial">Q</supplied>uinq:</abbr><expan><supplied reason="missing-initial">Q</supplied>uinq<ex>ue</ex></expan></choice> cum tyranno
