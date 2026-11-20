@@ -48,7 +48,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/></teiHeader>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/></teiHeader>
    <!-- Images -->
 
    <text>
@@ -76,7 +76,7 @@
             </div>
             <div type="declamation" n="12">
                <p facs="#B151r">
-                  <pb n="151r"/>
+                  <pb n="151r" facs="https://raw.githubusercontent.com/otichy/XML-test/refs/heads/main/B-f151r-decl12.JPG"/>
                   <lb break="yes"/>Veneficii rea torqueatur donec conscios indicet. Amissa uxore ex <choice><abbr>q<hi rend="superscript">a</hi></abbr><expan>q<ex>u</ex>a</expan></choice>
                   <lb break="yes"/>habebat filium duxit alteram. Et de ea suscepit filiam. <choice><abbr>Adolever<hi rend="overline">t</hi></abbr><expan>Adolever<ex>un</ex>t</expan></choice>
                   <lb break="yes"/>ambo infantes repente ambiguis signis perit adolescens. Pater
@@ -97,7 +97,7 @@
          <div type="M">
             <div type="declamation" n="30">
                <p facs="#M14v">
-                  <pb facs="https://raw.githubusercontent.com/otichy/XML-test/refs/heads/main/B-f151r-decl12.JPG" n="14v"/>
+                  <pb facs="https://raw.githubusercontent.com/otichy/XML-test/refs/heads/main/M-f14v-decl30.JPG" n="14v"/>
                   <lb/>Nepos, ex meretricio susceptus.
                   <lb/><num n="30">XXX</num>. Qui habebat filios, frugi <choice><abbr>&amp;</abbr><expan>et</expan></choice> luxuriosum ab amore meretricis
                   <lb/>abdicavit. Abdicatus se ad <gap extent="1" unit="word" reason="blackened-out"/> meretricem contulit.
